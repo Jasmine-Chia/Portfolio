@@ -17,7 +17,7 @@ The overall goal of this project is to practice exploratory data analysis (EDA),
 4. Creating data visualizations using Seaborn and Matplotlib
 5. Creating an interactive Tableau dashboard with the cleaned dataset
 
-# Findings from data visualisations done using Seaborn and matplotlib
+# Findings from data visualisations done using Seaborn and Matplotlib
 1. Most common type of meteorites to land are Ordinary chondrites, at 33547 instances, while Pallasites are the least commonly recorded at only 69 instances.
 2. Out of all the types of meteorites, non-magnetic iron meteorite have the heaviest average mass of 598.76kg, while lunar meteorites are the lightest at an average mass of 0.35kg.
 3. The continent with the highest number of recorded meteorite landings is Antartica, at 22097, while Europe is the continent with the least number of recorded meteorite landings at 519.
