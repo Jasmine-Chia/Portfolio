@@ -5,7 +5,9 @@ The overall goal of this project is to practice exploratory data analysis (EDA),
 
 # Files in this project
 `Meteorite Landings.ipynb`: The Jupyter Notebook consisting of the Python code used in this project
+
 `Meteorite_Landings.csv`: The original dataset downloaded from NASA
+
 `Meteorite_Landings_Cleaned_V3`: The dataset that is used to create data visualizations and the Tableau dashboard after cleaning and restructuring
 
 # Tasks
